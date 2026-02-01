@@ -7,7 +7,7 @@
 
 4. DO NOT DISTRIBUTE [MINECRAFT](https://minecraft.net) AND THIS SERVER!
 <br>
-# Chan Minecraft Server file decompress instruction
+## Chan Minecraft Server file decompress instruction
 1. Download the server release .7z file
 
 2. Input the password (Passwords are in the end of README)
@@ -16,7 +16,7 @@
 
 4. Enjoy the server!
 <br>
-# Decompress passwords
+## Decompress passwords
 Version 1.21.5 password: 1269753AAA@#
 
 Version 1.21.11 (Version 2026-02-01_16-21) password: net.minecraft.client.main.main
